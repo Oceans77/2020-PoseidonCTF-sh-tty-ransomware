@@ -29,7 +29,7 @@ Here we can see 2 interesting links
 > Pastebins - pro10 light version
 
 If we take a look at the pastebins file we see some interesting info
-![pastebins](https://i.ibb.co/SKR5Jc3/pastebins.png)
+![pastebins](https://i.ibb.co/SKR5Jc3/pastebins.png)</br>
 A link to the game and a password for the file
 
 After downloading and extracting the files we now have the malware executable
