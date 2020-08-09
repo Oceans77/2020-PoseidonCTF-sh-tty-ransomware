@@ -25,7 +25,7 @@ python vol.py -f ShittyRansomware.raw --profile=Win7SP1x64 chromehistory
 ![chromehistory](https://i.ibb.co/JykSMX2/chromehistory.png)
 </br>
 Here we can see 2 interesting links
-> Google Drive - Pro Evolution Soccer
+> Google Drive - Pro Evolution Soccer</br>
 > Pastebins - pro10 light version
 
 If we take a look at the pastebins file we see some interesting info
